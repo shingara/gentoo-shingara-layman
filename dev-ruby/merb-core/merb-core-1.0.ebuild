@@ -15,7 +15,7 @@ DEPEND=">=dev-ruby/rubygems-1.3.0"
 RDEPEND=">=dev-ruby/extlib-0.9.8
 >=dev-ruby/erubis-2.6.2
 dev-ruby/rake
-dev-ruby/json
+dev-ruby/json_pure
 dev-ruby/rspec
 dev-ruby/rack
 dev-ruby/mime-types
