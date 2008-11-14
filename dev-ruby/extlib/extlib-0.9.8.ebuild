@@ -4,11 +4,10 @@
 
 inherit gems
 
-DESCRIPTION="Addressable is a replacement for the URI implementation that is part of Ruby's standard library"
-HOMEPAGE="http://addressable.rubyforge.org/"
+DESCRIPTION="Support library for DataMapper and Merb."
+HOMEPAGE="http://extlib.rubyforge.org"
 
 LICENSE="MIT"
 SLOT="0"
 KEYWORDS="~x86 ~amd64"
-RDEPEND=">=dev-ruby/rake-0.7.3
->=dev-ruby/rspec-1.0.8"
+IUSE=""

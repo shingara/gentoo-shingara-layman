@@ -11,6 +11,6 @@ LICENSE="MIT"
 SLOT="0"
 KEYWORDS="~x86 ~amd64"
 IUSE=""
-RDEPEND=">=dev-ruby/merb-core-1.0.0
+RDEPEND=">=dev-ruby/merb-core-1.0
 >=dev-ruby/ruby2ruby-1.1.9
 >=dev-ruby/parsetree-2.1.1"

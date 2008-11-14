@@ -11,6 +11,7 @@ LICENSE="MIT"
 SLOT="0"
 KEYWORDS="~x86 ~amd64"
 IUSE=""
+DEPEND=">=dev-ruby/rubygems-1.3.0"
 RDEPEND=">=dev-ruby/extlib-0.9.8
 >=dev-ruby/erubis-2.6.2
 dev-ruby/rake

@@ -11,5 +11,5 @@ LICENSE="MIT"
 SLOT="0"
 KEYWORDS="~x86 ~amd64"
 IUSE=""
-RDEPEND=">=dev-ruby/merb-core-1.0.0
+RDEPEND=">=dev-ruby/merb-core-1.0
 >=dev-ruby/templater-0.3.3"

@@ -11,8 +11,8 @@ LICENSE="MIT"
 SLOT="0"
 KEYWORDS="~x86 ~amd64"
 IUSE=""
-RDEPEND=">=dev-ruby/merb-core-1.0.0
->=dev-ruby/merb-more-1.0.0
+RDEPEND=">=dev-ruby/merb-core-1.0
+>=dev-ruby/merb-more-1.0
 >=dev-ruby/dm-core-0.9.6
 >=dev-ruby/do_sqlite3-0.9.6
 >=dev-ruby/dm-timestamps-0.9.6
